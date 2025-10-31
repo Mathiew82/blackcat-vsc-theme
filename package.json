@@ -17,5 +17,9 @@
         "path": "./themes/BlackCat-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mathiew82/blackcat-vsc-theme"
   }
 }
