@@ -1,6 +1,5 @@
-<p style="text-align: center;">
- <img src="icon.png" alt="icon" width="128"/>
- <br><em>A stylish cat</em>
+<p style="font-style: italic; font-weight: bold; text-align: center;">
+ <br>A stylish cat
 </p>
 
 - Carefully balanced contrast to reduce eye strain
@@ -12,7 +11,7 @@
 ![screenshot 2](images/screenshot2.png)  
 ![screenshot 3](images/screenshot3.png)
 
-##### 🚀 Installation
+#### 🚀 Installation
 
 1. Open VS Code
 2. Go to **Extensions (Ctrl+Shift+X)**
@@ -21,7 +20,7 @@
 
 ---
 
-##### ❤️ Credits
+#### ❤️ Credits
 
 Created by **Mathiew82**  
 [Github](https://github.com/Mathiew82) | [Portfolio](https://amateo82.es)
