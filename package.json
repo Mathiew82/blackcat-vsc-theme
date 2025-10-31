@@ -2,7 +2,7 @@
   "name": "blackcat",
   "displayName": "BlackCat",
   "description": "These are my cat's favorite colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.105.0"
