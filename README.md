@@ -1,16 +1,27 @@
-# blackcat README
+<p style="text-align: center;">
+ <img src="icon.png" alt="icon" width="128"/>
+ <br><em>A stylish cat</em>
+</p>
 
-## Working with Markdown
+- Carefully balanced contrast to reduce eye strain
+- Soft, non-glossy colors for better readability
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![screenshot 1](images/screenshot1.png)  
+![screenshot 2](images/screenshot2.png)  
+![screenshot 3](images/screenshot3.png)
 
-## For more information
+##### 🚀 Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open VS Code
+2. Go to **Extensions (Ctrl+Shift+X)**
+3. Search for `BlackCat`
+4. Click **Install**
 
-**Enjoy!**
+---
+
+##### ❤️ Credits
+
+Created by **Mathiew82**  
+[Github](https://github.com/Mathiew82) | [Portfolio](https://amateo82.es)
