@@ -154,7 +154,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#499fe3"
+        "foreground": "#f988b4"
       }
     },
     {
@@ -230,14 +230,14 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#499fe3"
+        "foreground": "#f988b4"
       }
     },
     {
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#499fe3"
+        "foreground": "#f988b4"
       }
     },
     {
@@ -325,7 +325,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#499fe3"
+        "foreground": "#f988b4"
       }
     },
     {
@@ -499,7 +499,7 @@
       "name": "Markdown - Link Anchor",
       "scope": ["constant.other.reference.link.markdown"],
       "settings": {
-        "foreground": "#499fe3"
+        "foreground": "#f988b4"
       }
     },
     {
