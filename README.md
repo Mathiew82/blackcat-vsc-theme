@@ -41,10 +41,7 @@ Install the extension from a Marketplace:
 
 ## Customization
 
-You can find all the available keys [here](https://code.visualstudio.com/api/references/theme-color).
-
-> [!Note]
-> This respects your [color overrides](#override-palette-colors).
+You can find all the available keys to customize your theme [here](https://code.visualstudio.com/api/references/theme-color).
 
 &nbsp;
 
