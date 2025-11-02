@@ -16,19 +16,19 @@
 
 <details>
 <summary>🌇 Sand</summary>
-<img src="assets/latte.webp"/>
+<img src="images/sand.png"/>
 </details>
 <details>
-<summary>🌆 Sand High Contrast</summary>
-<img src="assets/frappe.webp"/>
+<summary>🌆 Sand Darker</summary>
+<img src="images/sand-darker.png"/>
 </details>
 <details>
 <summary>🏙️ Night</summary>
-<img src="assets/macchiato.webp"/>
+<img src="images/night.png"/>
 </details>
 <details>
-<summary>🌃 Night High Contrast</summary>
-<img src="assets/mocha.webp"/>
+<summary>🌃 Night Darker</summary>
+<img src="images/night-darker.png"/>
 </details>
 
 ## Usage
