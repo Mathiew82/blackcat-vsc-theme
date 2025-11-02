@@ -19,9 +19,9 @@
         "path": "./themes/Blackcat-Sand.json"
       },
       {
-        "label": "Blackcat Sand (High Contrast)",
+        "label": "Blackcat Sand Darker",
         "uiTheme": "vs-dark",
-        "path": "./themes/Blackcat-Sand-High-Contrast.json"
+        "path": "./themes/Blackcat-Sand-Darker.json"
       },
       {
         "label": "Blackcat Night",
@@ -29,9 +29,9 @@
         "path": "./themes/Blackcat-Night.json"
       },
       {
-        "label": "Blackcat Night (High Contrast)",
+        "label": "Blackcat Night Darker",
         "uiTheme": "vs-dark",
-        "path": "./themes/Blackcat-Night-High-Contrast.json"
+        "path": "./themes/Blackcat-Night-Darker.json"
       }
     ]
   },
