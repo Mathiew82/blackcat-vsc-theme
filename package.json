@@ -1,7 +1,7 @@
 {
   "name": "blackcat",
-  "displayName": "BlackCat",
-  "description": "These are my cat's favorite colors",
+  "displayName": "Blackcat",
+  "description": "🌙 Calm dark theme for clear, comfy coding!",
   "version": "0.0.4",
   "icon": "icon.png",
   "engines": {
@@ -14,9 +14,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "BlackCat",
+        "label": "Blackcat Sand",
         "uiTheme": "vs-dark",
-        "path": "./themes/BlackCat-color-theme.json"
+        "path": "./themes/Blackcat-Sand.json"
+      },
+      {
+        "label": "Blackcat Sand (High Contrast)",
+        "uiTheme": "hc-black",
+        "path": "./themes/Blackcat-Sand-High-Contrast.json"
+      },
+      {
+        "label": "Blackcat Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blackcat-Night.json"
+      },
+      {
+        "label": "Blackcat Night (High Contrast)",
+        "uiTheme": "hc-black",
+        "path": "./themes/Blackcat-Night-High-Contrast.json"
       }
     ]
   },
