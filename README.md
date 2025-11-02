@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/preview.webp"/>
+  <img src="images/demo.png"/>
 </p>
 
 ## Previews

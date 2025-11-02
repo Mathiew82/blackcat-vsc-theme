@@ -20,7 +20,7 @@
       },
       {
         "label": "Blackcat Sand (High Contrast)",
-        "uiTheme": "hc-black",
+        "uiTheme": "vs-dark",
         "path": "./themes/Blackcat-Sand-High-Contrast.json"
       },
       {
@@ -30,7 +30,7 @@
       },
       {
         "label": "Blackcat Night (High Contrast)",
-        "uiTheme": "hc-black",
+        "uiTheme": "vs-dark",
         "path": "./themes/Blackcat-Night-High-Contrast.json"
       }
     ]
