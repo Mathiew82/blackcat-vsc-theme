@@ -2,7 +2,7 @@
   "name": "blackcat",
   "displayName": "Blackcat",
   "description": "🌙 Calm dark theme for clear, comfy coding!",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.105.0"
