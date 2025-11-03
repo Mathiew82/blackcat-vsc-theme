@@ -16,19 +16,19 @@
 
 <details>
 <summary>🌇 Sand</summary>
-<img src="images/sand.png"/>
+<img src="images/sand-theme.png"/>
 </details>
 <details>
 <summary>🌆 Sand Darker</summary>
-<img src="images/sand-darker.png"/>
+<img src="images/sand-darker-theme.png"/>
 </details>
 <details>
 <summary>🏙️ Night</summary>
-<img src="images/night.png"/>
+<img src="images/night-theme.png"/>
 </details>
 <details>
 <summary>🌃 Night Darker</summary>
-<img src="images/night-darker.png"/>
+<img src="images/night-darker-theme.png"/>
 </details>
 
 ## Usage
