@@ -1,15 +1,15 @@
 {
   "name": "Blackcat Night Darker",
   "colors": {
-    "editor.background": "#121210",
+    "editor.background": "#101212",
     "editor.foreground": "#c2d4ff",
     "activityBarBadge.background": "#444442",
     "sideBarTitle.foreground": "#bbbbbb",
     "statusBar.background": "#333331",
     "statusBar.foreground": "#bbbbbb",
-    "statusBar.noFolderBackground": "#121210",
+    "statusBar.noFolderBackground": "#101212",
     "sideBar.background": "#020200",
-    "sideBarSectionHeader.background": "#121210",
+    "sideBarSectionHeader.background": "#101212",
     "sideBarSectionHeader.foreground": "#bbbbbb",
     "list.inactiveSelectionBackground": "#343e3a",
     "list.inactiveSelectionForeground": "#eaf6ea",

@@ -1,15 +1,15 @@
 {
   "name": "Blackcat Night",
   "colors": {
-    "editor.background": "#222220",
+    "editor.background": "#202222",
     "editor.foreground": "#c2d4ff",
     "activityBarBadge.background": "#444442",
     "sideBarTitle.foreground": "#bbbbbb",
     "statusBar.background": "#333331",
     "statusBar.foreground": "#bbbbbb",
-    "statusBar.noFolderBackground": "#222220",
+    "statusBar.noFolderBackground": "#202222",
     "sideBar.background": "#1e1e1c",
-    "sideBarSectionHeader.background": "#222220",
+    "sideBarSectionHeader.background": "#202222",
     "sideBarSectionHeader.foreground": "#bbbbbb",
     "list.inactiveSelectionBackground": "#343e3a",
     "list.inactiveSelectionForeground": "#eaf6ea",
